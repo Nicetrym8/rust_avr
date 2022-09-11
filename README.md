@@ -1,6 +1,6 @@
 # Rust AVR
 
-Simple
+Simple blink project, bare metal
 
 ## Build instructions
 
